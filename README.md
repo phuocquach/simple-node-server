@@ -7,3 +7,4 @@ I would like to make demo for some feature of javascript using node js, so you c
 1. Closure
 1. *this*
 1. Object
+1. Prototype
